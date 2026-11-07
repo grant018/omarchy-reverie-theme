@@ -1,0 +1,15 @@
+[launcher]
+# Matches the menu: see-through glass (blurred by hyprland.lua; needs alpha > 0.3),
+# silver border like the windows, and a light dim behind it.
+background                = "#1a1d22"
+background-alpha          = 0.75
+text                      = "#ddd4c3"
+border                    = "rgba(e6e5e6cc) rgba(c1bec1cc) 45deg"
+border-alpha              = 1.0
+scrim                     = "#1a1d22"
+scrim-alpha               = 0.25
+selected-background       = "#c7a15e"
+selected-background-alpha = 0.22
+selected-text             = "#f4efe4"
+selected-border           = "#c7a15e"
+selected-border-alpha     = 0.35

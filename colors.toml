@@ -1,0 +1,39 @@
+# Reverie: slate gallery walls, gilt frames, marble, and a faded Technicolor sky.
+mode = "dark"
+
+accent = "#c7a15e"
+selection = "#3d4a5e"
+selection_foreground = "#ece4d4"
+muted = "#958d82"
+
+background = "#1a1d22"
+dark_background = "#14161a"
+darker_background = "#0e1013"
+lighter_background = "#2a2e35"
+
+foreground = "#ddd4c3"
+dark_foreground = "#aca395"
+light_foreground = "#e8e0d0"
+bright_foreground = "#f4efe4"
+
+# The focused window wears a gilded frame.
+hyprland_active_border = "rgba(e0c88eff) rgba(c7a15eff) rgba(7d5c2eff) 135deg"
+hyprland_inactive_border = "rgb(3a3e45)"
+active_border_color = "#c7a15e"
+active_tab_background = "#c7a15e"
+
+red = "#da6753"
+yellow = "#d6b777"
+orange = "#cf7f50"
+green = "#8aa66f"
+cyan = "#7ea6af"
+blue = "#8299cf"
+magenta = "#c08f8c"
+brown = "#b87d48"
+
+bright_red = "#e27f6d"
+bright_yellow = "#e8d09b"
+bright_green = "#aec493"
+bright_cyan = "#a9c8cf"
+bright_blue = "#a9bbe2"
+bright_magenta = "#dcaba3"

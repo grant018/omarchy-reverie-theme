@@ -1,0 +1,15 @@
+[menu]
+# Silver card border (like the windows), with the current row picked out in gold.
+# See-through enough for the blur in hyprland.lua to show (it needs alpha > 0.3).
+background                = "#1a1d22"
+background-alpha          = 0.75
+text                      = "#ddd4c3"
+border                    = "rgba(e6e5e6cc) rgba(c1bec1cc) 45deg"  # Silver, matching the window borders in hyprland.lua.
+border-alpha              = 1.0
+scrim                     = "#1a1d22"
+scrim-alpha               = 0.25  # Light dim behind the menu; at 0.3 or less it is not blurred.
+selected-background       = "#c7a15e"
+selected-background-alpha = 0.22
+selected-text             = "#f4efe4"
+selected-border           = "#c7a15e"
+selected-border-alpha     = 0.35
